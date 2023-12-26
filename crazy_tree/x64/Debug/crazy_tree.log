@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\mdallal\Desktop\my_games\Crazy_Tree\crazy_tree\main.cpp(34,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mdallal\Desktop\my_games\Crazy_Tree\crazy_tree\main.cpp(34,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  crazy_tree.vcxproj -> C:\Users\mdallal\Desktop\my_games\Crazy_Tree\crazy_tree\x64\Debug\crazy_tree.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
