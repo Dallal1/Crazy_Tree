@@ -1,7 +1,8 @@
 #include "raylib.h"
 #include <iostream>
+#include <box2d\box2d.h>
 
-//using namespace Image;
+using namespace std;
 
 Texture2D tree;
 
@@ -41,7 +42,6 @@ public:
 	}
 };
 
-
 Imag imag;
 Ball ball;
 int main()
@@ -52,6 +52,7 @@ int main()
 	InitWindow(Screen_width, Screen_Higth, "Crazy Tree");
 
 	tree = LoadTexture("Graphics/tree.png");
+
 
 	 //FPS
 	 SetTargetFPS(144);
